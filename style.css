@@ -1,0 +1,17 @@
+body{
+    color:black;
+    background: #6e9eca;
+    margin: 0px;
+}
+
+header{
+    border: solid 1px azure;
+    padding: 20px;
+    font-size: 32px;
+    color: azure;
+}
+
+section{
+    background: #6597c4;
+    padding-bottom: 80px;
+}
